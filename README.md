@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yogeshmewada22
 - 👀 I’m interested in ...JAVA and AI/ML
-- 🌱 I’m currently learning ... JAVA
+- 🌱 I’m currently Full Stack JAVA Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... yogeshmewada22
 - 😄 Pronouns: ... HE/HIM
